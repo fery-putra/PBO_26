@@ -385,16 +385,6 @@ Contributions are welcome! If you'd like to improve this educational project:
 - Ensure each module remains independently runnable
 - Add explanation for new concepts
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Designed for teaching Java OOP concepts progressively
@@ -406,7 +396,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Oracle Java Documentation](https://docs.oracle.com/en/java/)
 - [Java Programming Tutorial](https://docs.oracle.com/javase/tutorial/)
-- [Effective Java by Joshua Bloch](https://www.oreilly.com/library/view/effective-java/9780134686097/)
 
 ## 🐛 Known Issues
 
