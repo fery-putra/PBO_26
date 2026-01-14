@@ -94,7 +94,7 @@ Java-OOP-SmartCity/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Java-OOP-SmartCity.git
+   git clone https://github.com/fery-putra/Java-OOP-SmartCity.git
    cd Java-OOP-SmartCity
    ```
 
@@ -399,7 +399,7 @@ Contributions are welcome! If you'd like to improve this educational project:
 
 ## 🐛 Known Issues
 
-None currently. If you find any bugs or issues, please report them in the [Issues](https://github.com/yourusername/Java-OOP-SmartCity/issues) section.
+None currently. If you find any bugs or issues, please report them in the [Issues](https://github.com/fery-putra/Java-OOP-SmartCity/issues) section.
 
 ## 📊 Project Statistics
 
