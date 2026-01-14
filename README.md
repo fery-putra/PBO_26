@@ -23,7 +23,7 @@ Java-OOP-SmartCity/
 │   ├── src/
 │   │   └── smartcity/
 │   │       └── SmartCityApp.java
-│   └── Module 1 - Explanation Document.md
+│   └── M1_README.md
 │
 ├── Module2_SmartCity/
 │   ├── src/
@@ -31,7 +31,7 @@ Java-OOP-SmartCity/
 │   │       ├── Building.java
 │   │       ├── CityManager.java
 │   │       └── SmartCityApp.java
-│   └── Module 2 - Explanation Document.md
+│   └── M2_README.md
 │
 ├── Module3_SmartCity/
 │   ├── src/
@@ -43,7 +43,7 @@ Java-OOP-SmartCity/
 │   │       ├── Park.java
 │   │       ├── CityManager.java
 │   │       └── SmartCityApp.java
-│   └── Module 3 - Explanation Document.md
+│   └── M3_README.md
 │
 ├── Module4_SmartCity/
 │   ├── src/
@@ -59,7 +59,7 @@ Java-OOP-SmartCity/
 │   │       ├── PublicPark.java (Final Class)
 │   │       ├── CityManager.java
 │   │       └── SmartCityApp.java
-│   └── Module 4 - Explanation Document.md
+│   └── M4_README.md
 │
 ├── Module5_SmartCity/
 │   ├── src/
@@ -77,7 +77,7 @@ Java-OOP-SmartCity/
 │   │       ├── BuildingManager.java (NEW - ArrayList)
 │   │       ├── CityManager.java
 │   │       └── SmartCityApp.java
-│   └── Module 5 - Explanation Document.md
+│   └── M5_README.md
 │
 └── README.md
 ```
